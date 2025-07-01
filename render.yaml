@@ -6,4 +6,4 @@ services:
   disk:
     name: data
     mountPath: /
-    sizeGB: 10
+    sizeGB: 1
