@@ -5,5 +5,5 @@ services:
   autoDeploy: false
   disk:
     name: data
-    mountPath: /var/lib/redis
+    mountPath: /
     sizeGB: 10
